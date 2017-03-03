@@ -44,8 +44,8 @@ links:
 timezone: Asia/Hong_Kong
 future: true
 pygments: true
-#markdown: kramdown
-markdown: redcarpet
+markdown: kramdown
+# markdown: redcarpet
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
