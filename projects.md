@@ -19,7 +19,7 @@ centres.
 
 
 ### [Summer Research Internship]
-  - 2016.05 to 2016.08.
+  - 2016.05 to 2016.08
   - University of Tennessee and Oak Ridge National Laboratory, U.S.A
   - Porject: Traffic simulation on HPC platform.
   - Supervisor: Dr Kwai WONG, Director, CFD Laboratory; Research Assistant Professor, Joint Institute for Computational Sciences, UTK/ORNL
