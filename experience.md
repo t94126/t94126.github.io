@@ -4,52 +4,30 @@ permalink: /experience/index.html
 title: Experience
 ---
 
-# Work Experience
+# Education Experience
 
-### GoDaddy (2013-)
-  - Director of Engineering
-  - Continuing work in Locu ([acquired by GoDaddy][news1], August 2013)
+###Undergraduate Student in City University of Hong Kong, Hong Kong.
+  - 2013.09 - Present
+  - Major in Information Engineering, Department of Electronic Engineering. 
+  - CGPA: 4.05/4.30 (Up to 2016.08)
 
-[news1]: http://allthingsd.com/20130819/godaddy-acquires-merchant-finder-startup-locu-for-70-million/
+###Undergraduate Student in City University of Hong Kong, Hong Kong.
+  - 2013.09 - Present
+  - Major in Information Engineering, Department of Electronic Engineering. 
+  - CGPA: 4.05/4.30 (Up to 2016.08)
 
-### Locu (2011-2013)
-  - Designed and implemented machine learning algorithms for extracting semantic information from unstructured web content
-  - Created auto-scaling compute and storage infrastructure
-  - First non-founder employee of start-up
+###2013.09 - Present
+  - Undergraduate Student in City University of Hong Kong, Hong Kong.
+  - Major in Information Engineering, Department of Electronic Engineering. 
+  - CGPA: 4.05/4.30 (Up to 2016.08)  
 
-### Google (2010)
-  - Added support for self-modifying code to Native Client in Chrome ([PLDI Paper][nacljit])
-  - Ported the V8 JIT compiler to run inside of Native Client
+###Affiliate Student in University College London, United Kingdom.
+  - 2015.09 - 2015.12:
+  - Major in Computer Science, Department of Computer Science.
 
-[nacljit]: http://groups.csail.mit.edu/commit/papers/2011/ansel-pldi11-nacljit.pdf
+###Summer exchange Student in National Cheng Kung University, Taiwan.
+  - 2015.07 - 2015.08:
 
-### Reveal Imaging Technologies (2009)
-  - Optimized algorithms for estimating object mass from multi-view X-ray data
-
-### Advanced Micro Devices (2007)
-  - Designed and implemented HLSL compiler for ATI graphics cards
-
-### Reveal Imaging Technologies (2005-2007)
-  - Designed and implemented distributed system for testing explosive detection algorithms
-  - Parallelized computer tomography reconstruction algorithms using a multi-node/multi-processor system
-{% comment %}
-  - Created and improved on algorithms to process multi-row computer tomography data
-  - Created tool for visualizing algorithm results, creating ground-truths, and generating reports about detection
-{% endcomment %}
-
-### Bluefin Robotics (2004)
-  - Automated the install process of Debian GNU/Linux and navigation/control
-    software on autonomous underwater vehicles
-{% comment %}
-  - GUI development in C++/QT
-  - Created system to extract sonar data from autonomous underwater vehicles in the field
-{% endcomment %}
-
-### Children's Hospital Boston (2001-2003)
-  - Web based software to monitor referring physicians
-
-### Corporate Communications (1998-2001)
-  - Web development in PHP/SQL
 
 
 # Academic Experience
