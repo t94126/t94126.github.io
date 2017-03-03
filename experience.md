@@ -19,10 +19,10 @@ title: Experience
 
 
 # Voluntary Experience
-  ### 2014.08-2015.07:
+### 2014.08-2015.07:
   - Volunteer of City-Youth Empowerment Project (CityU of HK)
   - Tutoring with children& youths with physical disability. 
 
 # Part-Time Job
-  ### 2014.08-2015.07: 
+### 2014.08-2015.07: 
   - Student Helper in Computer Service Centre in CityU of HK
