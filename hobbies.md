@@ -10,7 +10,7 @@ title: Hobbies
 I have a Xbox One and a notebook.
 
 ## I love play table-tennis.
-I was The first runner-up in Junior High School.
+I was the first runner-up in Junior High School.
 
 
 
