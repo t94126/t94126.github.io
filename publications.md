@@ -5,7 +5,7 @@ title: Publications
 pubs:
   
   - title: "Kuijia: Traffic rescaling in data center WANs"
-    author: "Che Zhang, Hong Xu, Libin Liu, Zhixiong Niu, Peng Wang, Yongqiang Tian,Chengchen Hu"
+    author: "Che Zhang, Hong Xu, Libin Liu, Zhixiong Niu, Peng Wang, Yongqiang Tian, Chengchen Hu"
     booktitle: "37th IEEE Sarnoff Symposium"
     month: "Sept"
     year: "2016"
