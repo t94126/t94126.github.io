@@ -17,6 +17,9 @@ title: Experience
 ### 2015.07 - 2015.08:
   - Summer exchange Student in National Cheng Kung University, Taiwan.
 
+# Teaching Experience
+### 2016.09-2016.12:
+  - Student Tutors of EE2331
 
 # Voluntary Experience
 ### 2014.08-2015.07:
