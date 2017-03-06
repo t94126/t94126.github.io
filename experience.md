@@ -19,7 +19,7 @@ title: Experience
 
 # Teaching Experience
 ### 2016.09-2016.12:
-  - Student Tutor of EE2331
+  - Student Tutor of EE3201 Signals and Systems
 
 # Voluntary Experience
 ### 2014.08-2015.07:
