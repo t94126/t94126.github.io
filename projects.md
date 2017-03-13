@@ -30,7 +30,7 @@ centres.
  - 2016.01 to 2016.05
  - Information Product Design Competition 2016
  - Department of Electronic Engineering, City University of Hong Kong
- - Together with Ruiyuan Lin and Xuewen Yao.
- - [Bronze Award] and [Innovative Idea Award].
+ - Together with Miss LIN, Ruiyuan and Miss Yao, Xuewen.
+ - *Bronze Award* and *Innovative Idea Award*.
 
 
