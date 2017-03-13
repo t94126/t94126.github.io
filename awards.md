@@ -17,7 +17,7 @@ title: Awards
 ### Mainland Student Scholarship, City University of Hong Kong
   - 2013-2014, 2014-2015 2015-2016, 2016-2017.
 
-### Outstanding Student Prize, 
+### Outstanding Student Prize 
   - Department of Electronic Engineering, City University of Hong Kong: 2014-15.
 
 ### Champion in Junior Group,  CityU CS Programming, 
