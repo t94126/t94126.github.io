@@ -6,7 +6,7 @@ title: Experience
 
 # Education Experience
 
-### 2013.09 - Present:
+### 2013.09 - 2017.07:
   - Undergraduate Student in City University of Hong Kong, Hong Kong.
   - Major in Information Engineering, Department of Electronic Engineering. 
 
@@ -18,14 +18,14 @@ title: Experience
   - Summer exchange Student in National Cheng Kung University, Taiwan.
 
 # Teaching Experience
-### 2016.09-2016.12:
+### 2016.09 - 2016.12:
   - Student Tutor of EE3201 Signals and Systems
 
 # Voluntary Experience
-### 2016.09-2016.12:
+### 2016.09 - 2016.12:
   - Volunteer of City-Youth Empowerment Project (CityU of HK)
   - Tutoring with children& youths with physical disability. 
 
 # Part-Time Job
-### 2014.08-2015.07: 
+### 2014.08 - 2015.07: 
   - Student Helper in Computer Service Centre in CityU of HK
