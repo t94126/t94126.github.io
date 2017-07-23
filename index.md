@@ -10,5 +10,8 @@ My name is Victor TIAN (Chinese name :Yongqiang永强 TIAN田). I am ging to be 
 
 Previously, I was an undergraduate student from City University of Hong Kong. My major was Infomration Engineering, which belongs to Department of Electronic Engineering. I took a lot courses from CS, EE and Math. 
 
+Here is my [CV].
+
 [CASTLE Reserch Group]:http://sccpu2.cse.ust.hk/castle/people.html
 [Prof. CHEUNG, Shing-Chi (S.C.)]:http://www.cs.ust.hk/~scc/
+[CV]:https://www.dropbox.com/s/kpb61js00amn3yv/CV_YongqiangTIAN.pdf?dl=0
