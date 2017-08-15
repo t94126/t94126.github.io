@@ -6,6 +6,10 @@ title: Experience
 
 # Education Experience
 
+### 2017.09 - Present:
+  - PhD Student in Computer Science and Engineering, Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Hong Kong.
+  - Research Interests: Software Engineering.
+
 ### 2013.09 - 2017.07:
   - Undergraduate Student in City University of Hong Kong, Hong Kong.
   - Major in Information Engineering, Department of Electronic Engineering. 
