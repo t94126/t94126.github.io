@@ -6,6 +6,9 @@ title: Awards
 
 # Awards
 
+### Hong Kong PhD Fellowship Scheme (HKPFS)
+  - 2017-Now, yearly
+
 ### Bronze Award and Innovative Idea Award
   - Information Product Design Competition 2016,CityU EE 
   - Project: Virtual Piano.

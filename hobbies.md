@@ -6,15 +6,14 @@ title: Hobbies
 
 # Hobbies
 
-### I love reading book.
-  - History and Military.
-  - Technical books in Linux, Network, Algorithm.
+### Reading.
+  - Books related to history, military and computer pratice.
 
-### I love video games.
-  - I have a Xbox One and a high-performance notebook.
-  - I like First-Person-Shooter and Action-adventure.
-  - COD series, DOOM series, Tomb Raider series and Uncharted series.
+### Video games.
+  - Xbox One, PS4 Pro and Switch.
+  - FPS and ACT.
+  - DOOM, Tomb Raider, Uncharted and God of War!
 
-### I love play table-tennis.
-  - I was the first runner-up when I was in junior high school.
+### Table-tennis.
+  - Over ten years.
 
