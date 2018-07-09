@@ -14,6 +14,15 @@ pubs:
     url: che-sarnoff16.pdf
     bibtex: che-sarnoff16.bib
   
+  - title: "Unveiling Performance of NFV Software Dataplanes"
+    author: "Zhixiong Niu, Hong Xu, Libin Liu, Yongqiang Tian, Peng Wang, Zhenhua Li"
+    booktitle: "CAN Workshop"
+    month: "Dec"
+    year: "2017"
+    address: "Incheon, Republic of Korea "
+    keywords: "Kuijia"
+    url: https://dl.acm.org/citation.cfm?id=3158430
+  
 
 ---
 
