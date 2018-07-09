@@ -4,6 +4,15 @@ permalink: /publications/index.html
 title: Publications
 pubs:
   
+  - title: "Unveiling Performance of NFV Software Dataplanes"
+    author: "Zhixiong Niu, Hong Xu, Libin Liu, Yongqiang Tian, Peng Wang, Zhenhua Li"
+    booktitle: "CAN Workshop, co-located with ACM CoNEXT' 17"
+    month: "Dec"
+    year: "2017"
+    address: "Incheon, Republic of Korea"
+    keywords: "Kuijia"
+    url: https://dl.acm.org/citation.cfm?id=3158430
+  
   - title: "Kuijia: Traffic rescaling in data center WANs"
     author: "Che Zhang, Hong Xu, Libin Liu, Zhixiong Niu, Peng Wang, Yongqiang Tian, Chengchen Hu"
     booktitle: "37th IEEE Sarnoff Symposium"
@@ -14,15 +23,7 @@ pubs:
     url: che-sarnoff16.pdf
     bibtex: che-sarnoff16.bib
   
-  - title: "Unveiling Performance of NFV Software Dataplanes"
-    author: "Zhixiong Niu, Hong Xu, Libin Liu, Yongqiang Tian, Peng Wang, Zhenhua Li"
-    booktitle: "CAN Workshop, co-located with ACM CoNEXT' 17"
-    month: "Dec"
-    year: "2017"
-    address: "Incheon, Republic of Korea "
-    keywords: "Kuijia"
-    url: https://dl.acm.org/citation.cfm?id=3158430
-  
+
 
 ---
 
