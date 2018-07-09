@@ -16,7 +16,7 @@ pubs:
   
   - title: "Unveiling Performance of NFV Software Dataplanes"
     author: "Zhixiong Niu, Hong Xu, Libin Liu, Yongqiang Tian, Peng Wang, Zhenhua Li"
-    booktitle: "CAN Workshop"
+    booktitle: "CAN Workshop, co-located with ACM CoNEXT' 17"
     month: "Dec"
     year: "2017"
     address: "Incheon, Republic of Korea "
