@@ -6,9 +6,9 @@ layout: page
 
 <img src="/images/victortian3.jpg" class="floatpic" width="200" height="200">
 
-My name is Victor TIAN (Chinese name :Yongqiang 永强 TIAN 田). Currently, I am a PhD student in The Hong Kong University of Science and Technology. I am a member of the [CASTLE Reserch Group] and my supervisor is [Prof. CHEUNG, Shing-Chi (S.C.)]. My research interests include Software Engineering and Data Mining.
+My name is Victor TIAN (Chinese name: Yongqiang 永强 TIAN 田). Currently, I am a Ph.D. student of The Hong Kong University of Science and Technology. I am a member of the [CASTLE Research Group] and my supervisor is [Prof. CHEUNG, Shing-Chi (S.C.)]. My research interest is in Deep Learning System Testing.
 
-Previously, I was an undergraduate student from City University of Hong Kong. My major was Infomration Engineering, which belongs to Department of Electronic Engineering. I took a lot courses from CS, EE and Math. 
+Previously, I was an undergraduate student from City University of Hong Kong. My major was Information Engineering, which belongs to the Department of Electronic Engineering. I had some research experience in the computer networking system when I was an undergraduate student.
 
 Here is my [CV].
 

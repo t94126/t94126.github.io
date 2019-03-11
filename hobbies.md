@@ -7,13 +7,10 @@ title: Hobbies
 # Hobbies
 
 ### Reading.
-  - Books related to history, military and computer pratice.
+  - Books related to history and military.
 
 ### Video games.
-  - Xbox One, PS4 Pro and Switch.
   - FPS and ACT.
-  - DOOM, Tomb Raider, Uncharted and God of War!
 
 ### Table-tennis.
-  - Over ten years.
-
+  
