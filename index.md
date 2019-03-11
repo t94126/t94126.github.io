@@ -12,6 +12,6 @@ Previously, I was an undergraduate student from City University of Hong Kong. My
 
 Here is my [CV].
 
-[CASTLE Reserch Group]:http://sccpu2.cse.ust.hk/castle/people.html
+[CASTLE Research Group]:http://sccpu2.cse.ust.hk/castle/people.html
 [Prof. CHEUNG, Shing-Chi (S.C.)]:http://www.cs.ust.hk/~scc/
 [CV]:https://www.dropbox.com/s/qfj8smkwupvfh00/CV_YongqiangTIAN.pdf?dl=0
