@@ -7,6 +7,7 @@ pubs:
   - "Exploring and Exploiting the Correlations between Bug-Inducing and Bug-Fixing Commits" 
     author: "Ming Wen, Rongxin Wu, Yepang Liu, Yongqiang Tian, Xuan Xie, Shing-Chi Cheung and Zhendong Su"
     booktitle: "In The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, Technical Research Paper"
+    month: "Aug"
     year: "2019"
     address: "Tallinn, Estonia"
 
