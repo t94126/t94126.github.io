@@ -56,7 +56,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 	margin: 0;
 	padding: 0;
 	border: 0;
-	font-size: 101%;
+	font-size: 20px;
 	font-family: 'Candara', 'Candara', 'Candara';
 	vertical-align: baseline;
 }
@@ -65,6 +65,7 @@ body {
 }
 ol,
 ul {
+	font-size: 100%;
 	list-style: none;
 }
 blockquote,
@@ -835,6 +836,7 @@ article.sticky .featured-post {
 .mu_register p {
 	margin: 0 0 24px;
 	margin: 0 0 1.714285714rem;
+	font-size: 120%;
 	line-height: 1.714285714;
 }
 .entry-content a:visited,
