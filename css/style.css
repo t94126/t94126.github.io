@@ -56,7 +56,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 	margin: 0;
 	padding: 0;
 	border: 0;
-	font-size: 20px;
+	font-size: 18px;
 	font-family: 'Candara', 'Candara', 'Candara';
 	vertical-align: baseline;
 }
@@ -200,8 +200,8 @@ img {
 article.format-quote footer.entry-meta,
 article.format-link footer.entry-meta,
 article.format-status footer.entry-meta {
-	font-size: 11px;
-	font-size: 0.785714286rem;
+	font-size: 18px;
+	/*font-size: 0.785714286rem;*/
 	line-height: 2.181818182;
 }
 
@@ -697,8 +697,8 @@ section[role="banner"] {
 footer[role="contentinfo"] {
 	border-top: 1px solid #ededed;
 	clear: both;
-	font-size: 12px;
-	font-size: 0.857142857rem;
+	font-size: 18px;
+	/*font-size: 0.857142857rem;*/
 	line-height: 2;
 	max-width: 960px;
 	max-width: 68.571428571rem;
@@ -1015,8 +1015,8 @@ img.aligncenter,
 footer.entry-meta {
 	margin-top: 24px;
 	margin-top: 1.714285714rem;
-	font-size: 13px;
-	font-size: 0.928571429rem;
+	font-size: 18px;
+	/*font-size: 0.928571429rem;*/
 	line-height: 1.846153846;
 	color: #757575;
 }
